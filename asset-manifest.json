@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.aa9c7e52.css",
-    "main.js": "/todo-app/static/js/main.08c4584b.js",
+    "main.css": "/todo-app/static/css/main.402a4ee5.css",
+    "main.js": "/todo-app/static/js/main.08b4c6fd.js",
     "static/js/787.2843ca88.chunk.js": "/todo-app/static/js/787.2843ca88.chunk.js",
     "static/media/tasks.svg": "/todo-app/static/media/tasks.8e69a493840d1654ac2da2394ae63f9a.svg",
     "static/media/delete.png": "/todo-app/static/media/delete.b5d68e25ab3f6cd47475.png",
     "index.html": "/todo-app/index.html",
-    "main.aa9c7e52.css.map": "/todo-app/static/css/main.aa9c7e52.css.map",
-    "main.08c4584b.js.map": "/todo-app/static/js/main.08c4584b.js.map",
+    "main.402a4ee5.css.map": "/todo-app/static/css/main.402a4ee5.css.map",
+    "main.08b4c6fd.js.map": "/todo-app/static/js/main.08b4c6fd.js.map",
     "787.2843ca88.chunk.js.map": "/todo-app/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa9c7e52.css",
-    "static/js/main.08c4584b.js"
+    "static/css/main.402a4ee5.css",
+    "static/js/main.08b4c6fd.js"
   ]
 }
